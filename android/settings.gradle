@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 rootProject.name = 'INVENTORA'
+=======
+rootProject.name = 'FinalProject'
+>>>>>>> 8ba6e033743974bab2abcc61912515786722787e
 apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
 include ':app'
 includeBuild('../node_modules/react-native-gradle-plugin')
